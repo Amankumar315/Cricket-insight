@@ -25,6 +25,6 @@ the best team for the T20 World Cup 2022 based on solid data analysis.
 
 ### Screenshots / Demos
 
-Example: ![Dashboard Preview](https://github.com/Amankumar315/Cricket-insight/blob/main/Dashboard_Screenshort.png)
-Example: ![Dashboard Preview](https://github.com/Amankumar315/Cricket-insight/blob/main/Dashboard_Screenshot%20(2).png)
+ ![Dashboard Preview](https://github.com/Amankumar315/Cricket-insight/blob/main/Dashboard_Screenshort.png)
+ ![Dashboard Preview](https://github.com/Amankumar315/Cricket-insight/blob/main/Dashboard_Screenshot%20(2).png)
 
